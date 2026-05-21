@@ -80,8 +80,6 @@ Next.js | Redux | React Query | REST API
 ---
 
 ## 🔥 Currently Exploring
-
-- Advanced ASP.NET Core (Clean Architecture, Web APIs)
 - DevOps & Docker
 - Machine Learning & AI Model Integration
 - System Design & Scalable Backend Systems
@@ -90,7 +88,7 @@ Next.js | Redux | React Query | REST API
 
 ## 🤝 Connect With Me
 
-- 🌐 Portfolio: :https://shresthamanoj.com.np{index=0}    
+- 🌐 Portfolio: :https://shrestha-manoj.com.np    
 - 📧 Email: manoj.shrestha2081@gmail.com  
 
 
