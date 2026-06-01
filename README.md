@@ -1,19 +1,19 @@
 # Hi 👋, I'm Manoj Shrestha
 
-### 🚀 Full Stack Developer | CSIT Graduate | 
+###  Full Stack Developer | CSIT Graduate | 
 
 I am a **Computer Science graduate (BSc CSIT)** from Nepal with a strong interest in building scalable web applications and intelligent systems.  
 I specialize in **Full Stack Development (MERN & ASP.NET Core)** and enjoy working on backend systems, APIs, and AI-based applications.
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-- 🎓 BSc CSIT Graduate (Amrit Campus, Tribhuvan University)
-- 💻 Full Stack Developer (MERN + ASP.NET Core MVC)
-- 🧠 Interested in AI, Machine Learning & System Design
-- ⚙️ Passionate about backend architecture and scalable systems
-- 🚀 Focused on building real-world production-ready applications
+-  BSc CSIT Graduate (Amrit Campus, Tribhuvan University)
+-  Full Stack Developer (MERN + ASP.NET Core MVC)
+- Interested in AI, Machine Learning & System Design
+- Passionate about backend architecture and scalable systems
+- Focused on building real-world production-ready applications
 
 ---
 
@@ -36,9 +36,9 @@ Git, GitHub, Postman, Docker
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🧠 Brain Tumor Detection System
+###  Brain Tumor Detection System
 React | FastAPI | TensorFlow | Python  
 - Developed an AI-powered system to detect brain tumors from MRI images  
 - Integrated CNN model with FastAPI backend for real-time predictions  
@@ -47,7 +47,7 @@ React | FastAPI | TensorFlow | Python
 
 ---
 
-### 🧾 HisabKitab – Invoice Management App
+### HisabKitab – Invoice Management App
 Next.js | MongoDB | JWT Authentication  
 - Built a secure invoice management system for businesses  
 - Implemented authentication and session management using JWT  
@@ -55,7 +55,7 @@ Next.js | MongoDB | JWT Authentication
 
 ---
 
-### 🏥 docMeet – Doctor Appointment System
+###  docMeet – Doctor Appointment System
 MERN Stack | Tailwind CSS  
 - Developed a role-based appointment booking system for patients and doctors  
 - Integrated REST APIs for scheduling and management  
@@ -63,7 +63,7 @@ MERN Stack | Tailwind CSS
 
 ---
 
-### 🧩 Quizify – Dynamic Quiz Platform
+###  Quizify – Dynamic Quiz Platform
 ASP.NET Core MVC | SQL Server  
 - Built a dynamic quiz system with scoring and result tracking  
 - Developed admin panel for managing quizzes and questions  
@@ -71,7 +71,7 @@ ASP.NET Core MVC | SQL Server
 
 ---
 
-### 🛒 Himal TradeLink – E-commerce Frontend (Internship)
+### Himal TradeLink – E-commerce Frontend (Internship)
 Next.js | Redux | React Query | REST API  
 - Developed responsive e-commerce frontend during internship  
 - Integrated backend APIs for products and orders  
@@ -79,14 +79,14 @@ Next.js | Redux | React Query | REST API
 
 ---
 
-## 🔥 Currently Exploring
+##  Currently Exploring
 - DevOps & Docker
 - Machine Learning & AI Model Integration
 - System Design & Scalable Backend Systems
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 - 🌐 Portfolio: :https://shrestha-manoj.com.np    
 - 📧 Email: manoj.shrestha2081@gmail.com  
@@ -97,4 +97,4 @@ Next.js | Redux | React Query | REST API
 
 ---
 
-⭐ If you like my work, feel free to follow and explore my repositories!
+
